@@ -1,0 +1,24 @@
+.entire {
+    background-color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-page {
+    background-color: rgb(226, 239, 250);
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-top: 1px;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 3%;
+}
+
+.img {
+    width: 500px;
+    border-radius: 10%;
+}
+
+.bottom-bar {
+padding-left: 10px;
+}
